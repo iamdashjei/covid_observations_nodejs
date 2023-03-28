@@ -11,6 +11,11 @@ https://commandprompt.com/education/how-to-download-and-install-postgresql/
 
 For setting up postgres you have to make sure it is in your local machine before you run this project.
 
+Check the ```.env.example``` file and add your credentials after installation.
+
+Additional tool is PG Admin that you can use for easy access. https://www.pgadmin.org and how-to documentation https://www.pgadmin.org/docs/pgadmin4/6.18/getting_started.html
+
+
 ### NodeJS
 https://www.pluralsight.com/guides/getting-started-with-nodejs
 
